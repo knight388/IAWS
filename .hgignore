@@ -1,0 +1,9 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+npm-debug.log
+syntax: glob
+node_modules
+www/build
+plugins
+.tmp
+.vscode
+platforms

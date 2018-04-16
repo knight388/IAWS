@@ -1,0 +1,21 @@
+{
+  "name": "IAWS Axios",
+  "version": "0.0.1",
+  "description": "Hello Expo!",
+  "author": "Londy Martina",
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "@expo/ex-navigation": "^3.0.0",
+    "ImageViewer": "^1.5.7",
+    "axios": "^0.16.2",
+    "expo": "^18.0.4",
+    "native-base": "^2.2.0",
+    "react": "16.0.0-alpha.12",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-18.0.1.tar.gz",
+    "react-native-image-crop-picker": "^0.14.1",
+    "react-native-infinite-scroll": "^1.0.5",
+    "react-native-infinite-scroll-view": "^0.4.3",
+    "react-native-swiper": "^1.5.4"
+  }
+}

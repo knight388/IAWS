@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "IAWS Axis",
+    "description": "Mobile app for go.iowawindandsolar.com",
+    "slug": "iaws",
+    "privacy": "public",
+    "sdkVersion": "18.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "./assets/icons/logo.png",
+    "loading": {
+      "icon": "./assets/icons/logo.png",
+      "hideExponentText": true
+    },
+    "packagerOpts": {
+      "assetExts": [
+        "ttf",
+        "mp4"
+      ]
+    },
+    "android": {
+      "package": "com.ionicframework.mobileapp578546"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "buildIdentifier": "com.ionicframework.mobileapp578546"
+    }
+  }
+}
